@@ -1,6 +1,5 @@
 #include "core/conversation.h"
-#include <utility>
-#include <stdexcept>
+
 
 // Empty conversation: size() == 0, no allocation yet.
 Conversation::Conversation()
