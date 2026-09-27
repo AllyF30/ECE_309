@@ -22,6 +22,7 @@ set(CORE_SOURCES
     src/scripted_client.cpp
     src/replay_client.cpp
     src/harness.cpp
+    src/message.cpp
 )
 
 # 2. Build the main program.
